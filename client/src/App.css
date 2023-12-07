@@ -34,13 +34,13 @@ body {
 }
 
 .btn-outline {
-  color: rgb(153, 217, 234);
-  border: 1px solid rgb(153, 217, 234);
-  background: rgb(63, 73, 204);
+  color: #fff;
+  /* border: 1px solid rgb(153, 217, 234); */
+  background: rgb(0, 24, 111);
 }
 .btn-primary {
-  background: rgb(153, 217, 234);
-  color: rgb(0, 24, 11);
+  background: rgb(0, 24, 111);
+  color: #fff;
 }
 
 .btn-secondary {

@@ -26,7 +26,8 @@
     list-style-type: none;
     padding-left: 0;
     margin-bottom: 60px;
-    color: rgb(143, 217, 234);
+    /* color: rgb(143, 217, 234); */
+    color: #fff;
 }
 .usersList li {
     margin-bottom: 12px;
